@@ -1,0 +1,5 @@
+.disciplines-container {
+    height: 200px; /* Set the desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  

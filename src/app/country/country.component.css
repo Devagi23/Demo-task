@@ -1,0 +1,122 @@
+.nav-tabs .nav-item .nav-link.active {
+    background-color: #007bff;
+    color: white;
+}
+
+.nav-content {
+    border-bottom: none !important;
+    position: relative;
+    top: 0.5rem;
+}
+
+.custom-card {
+    border-top: 1px solid #c9c9c9;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.custom-nav-tab-btn {
+    line-height: 1rem;
+    color: #484848;
+}
+
+.paginator {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #484848;
+    display: flex;
+    align-items: center;
+}
+
+.location-icon {
+    font-size: 1.2rem;
+    color: rgb(138, 125, 125);
+}
+
+.list-icon {
+    font-size: 1rem;
+    color: rgb(138, 125, 125);
+    margin-left: .3rem;
+    margin-top: .2rem;
+}
+
+.grade-icon {
+    color: #007bff;
+    font-size: 1.1rem;
+    margin-top: 0.2rem;
+}
+
+.font-sty {
+    position: relative;
+    top: -1rem
+}
+
+.verified {
+    margin-left: 11rem;
+}
+
+.verified-icon {
+    color: #007bff;
+    margin-top: 0.2rem;
+    font-size: 1.1rem;
+}
+
+.card-heading {
+    font-weight: 500;
+}
+
+.account-icon {
+    color: #007bff;
+    font-size: 1.1rem;
+}
+
+.Psychology-icon {
+    color: #007bff;
+    font-size: 1.1rem;
+    margin-left: 1rem;
+}
+
+.btn-sty {
+    margin-right: 1rem;
+}
+
+.country-sty {
+    position: relative;
+    top: 0rem;
+    left: .5rem
+}
+
+.expand-icon {
+    font-size: 1.2rem;
+}
+
+.search-box {
+    width: 75%;
+    padding-left: 1rem;
+    font-size: .9rem;
+    height: 2rem;
+    border-radius: 30px;
+    border: transparent;
+}
+
+.card-style {
+    background-color: #f5f5f5;
+}
+
+.link-sty {
+    color: black;
+    text-decoration: none;
+}
+
+.link-sty:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.down-icon {
+    transform: rotate(0deg);
+}
+
+.right-icon {
+    transform: rotate(270deg);
+}

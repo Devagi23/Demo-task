@@ -1,0 +1,39 @@
+.input-group-text {
+    position: relative;
+    right: 3rem;
+    background-color: transparent !important;
+    border: none !important;
+
+}
+
+.home-icon {
+    font-size: 1.2rem;
+    color: rgb(138, 125, 125);
+}
+
+.home-icon:hover {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.right-icon {
+    font-size: 1.2rem;
+    color: rgb(138, 125, 125);
+}
+
+.card-style {
+    background-color: #f5f5f5;
+}
+
+.cross-icon {
+    position: absolute;
+    right: 4.5rem;
+    top: 0.5rem;
+}
+
+.search-input {
+    width: 90vw;
+    padding: 0.5rem;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
